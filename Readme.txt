@@ -25,7 +25,8 @@ A 2-player anime battle game built using Python and Pygame.
 ## 🚀 How to Run
 
 ### Option 1 (Recommended)
-Just download the exe file and enjoy ! ( no need to download anything else )
+Just download the exe ( stand alone ) file and enjoy ! ( no need to download anything else )
+you can download it here , https://drive.google.com/file/d/1XBO5rADBMMxyCbM_uvnMtiYoR1bEMvRr/view
 ( if you want the code I posted a text document which you can directly download )
 
 ### Option 2
